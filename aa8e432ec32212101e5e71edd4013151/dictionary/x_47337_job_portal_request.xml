@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="a68e432ec32212101e5e71edd401315c" extends="sn_creatorstudio_task" label="Job Portal Request" max_length="40" name="x_47337_job_portal_request" type="collection"/>
+</database>
